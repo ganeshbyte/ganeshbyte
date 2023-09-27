@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Ganesh Chaudhari</h1>
 <h3 align="center">Web Developer</h3>
-<p><img align="right" style="white-space:nowrap;" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="nerdy_gif" /></p>
+<p><img align="right" style="white-space:nowrap;" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="nerdy_gif" /></p>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 - 🌱 I’m currently learning about **ReactJs**
 
 - 📫 How to reach me **chaudhariganeshofficial@gmail.com**
