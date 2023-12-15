@@ -1,33 +1,71 @@
 # Hi , I'm Ganesh Chaudhari
 
-### A passionate full stack developer from India
+**(A passionate full stack developer from India)**
 
-[![Ganesh Chaudhari Trophy](https://github-profile-trophy.vercel.app/?username=ganeshbyte)](https://github.com/ganeshbyte)
+[![Ganesh Chaudhari](https://your-image-url.com)](https://your-website-or-profile-link.com) I'm currently **learning NodeJS**. 
 
--  I’m currently learning **NodeJS**
+ Ask me about **javascript, ReactJS**. 
 
--  Ask me about **javascript,ReactJS**
+---
 
-### Connect with me:
+### Connect with Me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/https://www.linkedin.com/in/ganesh2111/)
-[![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)](https://www.codechef.com/users/https://www.codechef.com/users/ganesh2111)
+* **LinkedIn:** [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/your-linkedin-profile/)
+* **CodeChef:** [![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)](https://www.codechef.com/users/your-codechef-username)
 
-### Languages and Tools:
+---
 
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
-[![MSSQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)
-[![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)](https://www.oracle.com/)
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
+### Skills & Tools:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshbyte&show_icons=true&locale=en)](https://github.com/ryo-ma/github-profile-trophy)
+**Languages:**
+
+* Python 
+* Java ☕️
+* JavaScript 
+
+**Web Development:**
+
+* HTML5 & CSS3 
+* ReactJS ⚛️
+* Bootstrap ⚡️
+* Express.js 
+
+**Databases:**
+
+* MongoDB 
+* PostgreSQL 
+
+**Other:**
+
+* Git & GitHub 
+* Microsoft SQL Server 
+* Oracle 
+
+**Achievements:**
+
+* [List your achievements and awards here, with links if applicable]
+
+---
+
+### My Projects:
+
+* [Link to your project repositories or websites]
+
+---
+
+### Get in Touch:
+
+* Feel free to reach out to me on any of the platforms above, or email me at [your-email-address].
+
+I'd love to connect and discuss your projects, ideas, or anything related to tech!
+
+---
+
+**Note:**
+
+* Replace the bracketed text with your own information and links.
+* Feel free to customize the sections and add more details about yourself and your work.
+* You can also add badges, stats, animations, or other elements to make your README even more engaging.
+
+I hope this revised version is more visually appealing and meets your expectations. Please let me know if you have any further questions or need help with specific customizations.
 
